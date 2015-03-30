@@ -1,0 +1,7 @@
+name: Server
+main: me.Fizz.Server
+version: 1.0
+description: Server
+depend: [EffectLib]
+commands:
+     stats:
